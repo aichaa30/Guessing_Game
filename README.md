@@ -9,17 +9,11 @@ Features
 
 
 User-friendly interface
-
 Validates user input
-
 Provides feedback on correct and incorrect guesses
-
 Keeps track of the number of attempts
-
 Allows users to select difficulty levels (easy, medium, hard)
-
 Calculates and displays scores based on performance
-
 Saves and displays high scores
 
 
@@ -27,15 +21,11 @@ How to Play
 
 
 The game will prompt you to enter your name.
-
 You will be asked if you want to play the guessing game.
-
 If you choose to play, you will select a difficulty level:
 
 Easy: Guess 3 numbers
-
 Medium: Guess 4 numbers
-
 Hard: Guess 5 numbers
 
 
