@@ -7,7 +7,7 @@ This project implements an interactive number guessing game. The purpose of the 
 
 
 
-Features
+Features 
 
 
 User-friendly interface
