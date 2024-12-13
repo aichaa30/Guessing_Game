@@ -60,3 +60,6 @@ To run the game, ensure you have Python installed. Save the code to a file, for 
 
 ```bash
 python guessing_game.py
+
+![Game](./recents/img1.png)
+
